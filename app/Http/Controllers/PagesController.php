@@ -76,7 +76,7 @@ class PagesController extends Controller
     public function fontawesome()
     {
         $page_title = 'fontawesome';
-        $page_description = 'This is fontawesome test page';
+        $page_description = 'This is fontawesome test pageee';
 
         return view('pages.icons.fontawesome', compact('page_title', 'page_description'));
     }

@@ -571,7 +571,7 @@ eval(" // Initialization\n\nKTUtil.ready(function () {\n  //////////////////////
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\wamp64\www\keenthemes\themes\metronic\theme\html_laravel\demo1\skeleton\resources\js\scripts.js */"./resources/js/scripts.js");
+module.exports = __webpack_require__(/*! C:\wamp64\www\b2x\resources\js\scripts.js */"./resources/js/scripts.js");
 
 
 /***/ })
